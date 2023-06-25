@@ -33,11 +33,11 @@
 - #### [EN - Essential Math for AI: Next-Level Mathematics for Developing Efficient and Successful AI Systems (Por Luis SM)](https://amzn.eu/d/bbLKPVK)
 - #### [EN - Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play (Por Luis SM)](https://amzn.eu/d/5FJtdQh)
 - #### [EN - K. Murphy, “Machine Learning, A Probabilistic Perspective”. MIT Press, 2012 (Por Pamela B):](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
-- - #### [EN - C. Bishop, “Pattern Recognition and Machine Learning”. Springer, 2006 (Por Pamela B)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+- #### [EN - C. Bishop, “Pattern Recognition and Machine Learning”. Springer, 2006 (Por Pamela B)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
 ### Publicaciones
 
-- #### [EN - Papers de Google Scholar (Por Pamela B)](https://youtube.com/playlist?list=PLRS9ih_Wnxx6mnkWnr4b-2fShj6ddo7zN)
+- #### [EN - Papers de Google Scholar (Por Pamela B)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning&btnG=)
 
 ### Cursos
 
