@@ -35,6 +35,11 @@
 - #### [EN - K. Murphy, “Machine Learning, A Probabilistic Perspective”. MIT Press, 2012 (Por Pamela B):](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 - #### [EN - C. Bishop, “Pattern Recognition and Machine Learning”. Springer, 2006 (Por Pamela B)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
+### Articulos
+
+- #### [EN - The synthetic data field guide by Cassie Kozyrkov Part I](https://towardsdatascience.com/what-is-synthetic-data-e4820ccebfcf)
+- - #### [EN - The synthetic data field guide by Cassie Kozyrkov Part II](https://kozyrkov.medium.com/the-synthetic-data-field-guide-f1fc59e2d178)
+
 ### Publicaciones
 
 - #### [EN - Papers de Google Scholar (Por Pamela B)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning&btnG=)
