@@ -38,7 +38,7 @@
 ### Articulos
 
 - #### [EN - The synthetic data field guide by Cassie Kozyrkov Part I](https://towardsdatascience.com/what-is-synthetic-data-e4820ccebfcf)
-- - #### [EN - The synthetic data field guide by Cassie Kozyrkov Part II](https://kozyrkov.medium.com/the-synthetic-data-field-guide-f1fc59e2d178)
+- #### [EN - The synthetic data field guide by Cassie Kozyrkov Part II](https://kozyrkov.medium.com/the-synthetic-data-field-guide-f1fc59e2d178)
 
 ### Publicaciones
 
