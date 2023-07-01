@@ -43,3 +43,4 @@
 
 - #### [ES - Cursos de Machine Learning Básicos](https://developers.google.com/machine-learning?hl=es-419)
 - #### [ES - Cursos de Machine Learning Avanzados](https://developers.google.com/machine-learning/advanced-courses?hl=es-419)
+- #### [EN - Make Friends with Machine Learning by Cassie Kozyrkov](https://youtu.be/1vkb7BCMQd0)
