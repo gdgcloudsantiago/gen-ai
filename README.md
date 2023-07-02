@@ -6,7 +6,7 @@
 
 - Suscríbete a nuestro canal en Youtube: https://www.youtube.com/gdgcloudsantiago
 - Regístrate en GDG Community para no perderte ninguno de nuestros eventos: https://gdg.community.dev/gdg-cloud-santiago-de-chile
-- Únete a nuestro Grupo de estudio de Whatsapp de Inteligencia Artificial Generativa: https://chat.whatsapp.com/H9d2J4BWiwD5LrL4GZosyQ
+- Únete a nuestro Grupo de estudio de Whatsapp: https://chat.whatsapp.com/H9d2J4BWiwD5LrL4GZosyQ
 
 - Código de Conducta y Reglas de la Comunidad: https://github.com/gdgcloudsantiago/community-guidelines
 - Acerca de Derechos de Autor, Propiedad Intelectual y Licenciamiento del contenido creado en la comunidad: https://github.com/gdgcloudsantiago/content-intellectual-property
