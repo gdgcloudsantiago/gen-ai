@@ -11,21 +11,24 @@
 - Código de Conducta y Reglas de la Comunidad: https://github.com/gdgcloudsantiago/community-guidelines
 - Acerca de Derechos de Autor, Propiedad Intelectual y Licenciamiento del contenido creado en la comunidad: https://github.com/gdgcloudsantiago/content-intellectual-property
 
-# Recursos
+# ¿Eres Nuevo?
 
 ### Sesiones Semanales
+
+- #### [ES - Sesiones Anteriores Grabadas](https://youtube.com/playlist?list=PLRS9ih_Wnxx6FtG_naDSxTXVrkfu4JAai)
 
 - #### [ES - Sesiones Teóricas de los días Martes](https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-todos-los-martes-ia-generativa-grupo-de-estudio-2023-06-20/)
  
 - #### [ES - Sesiones Prácticas de los días Jueves](https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-todos-los-jueves-ia-generativa-sesiones-practicas-2023-06-22/)
 
-### Caminos de Aprendizaje:
+### Camino de Aprendizaje del Grupo de Estudio:
 
 - #### [EN - Google Cloud SkillBoost Generative AI](https://www.cloudskillsboost.google/journeys/118)
 
+# Recursos
+
 ### Videos 
 
-- #### [ES - Sesiones Anteriores Grabadas](https://youtube.com/playlist?list=PLRS9ih_Wnxx6FtG_naDSxTXVrkfu4JAai)
 - #### [ES - Desafíos Semanales](https://youtube.com/playlist?list=PLRS9ih_Wnxx6mnkWnr4b-2fShj6ddo7zN)
 
 ### Libros
