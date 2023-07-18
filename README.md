@@ -16,12 +16,6 @@
 ### Grabaciones de las Sesiones
 
 - #### [ES - Sesiones Anteriores Grabadas](https://youtube.com/playlist?list=PLRS9ih_Wnxx6FtG_naDSxTXVrkfu4JAai)
-  
-### Sesiones Semanales
-
-- #### [ES - Sesiones Teóricas de los días Martes](https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-todos-los-martes-ia-generativa-grupo-de-estudio-2023-06-20/)
- 
-- #### [ES - Sesiones Prácticas de los días Jueves](https://gdg.community.dev/events/details/google-gdg-cloud-santiago-de-chile-presents-todos-los-jueves-ia-generativa-sesiones-practicas-2023-06-22/)
 
 ### Camino de Aprendizaje del Grupo de Estudio:
 
